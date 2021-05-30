@@ -1,0 +1,116 @@
+<lab_0>
+<information>
+
+  <information1>
+     <ID> 11 </ID>
+     <NAME> Samsung </NAME>
+     <UNIT_PRICE> 35000 </UNIT_PRICE>
+     <STOCK> 35 </STOCK>
+     <STATUS> 1 </STATUS>
+  </information1>
+
+  <information2>
+     <ID> 20 </ID>
+     <NAME> HTC </NAME>
+     <UNIT_PRICE> 65300 </UNIT_PRICE>
+     <STOCK> 50 </STOCK>
+     <STATUS> 0 </STATUS> 
+  </information2>
+
+
+  <information3>
+     <ID> 21 </ID>
+     <NAME> Nokia </NAME>
+     <UNIT_PRICE> 25100 </UNIT_PRICE>
+     <STOCK> 100 </STOCK>
+     <STATUS> 1 </STATUS>
+  </information3>
+  
+</information>
+<info>
+  <info_1>
+
+	<SL._NO.> 23 </SL._NO.>
+	<NAME> John_Carter </NAME>
+    <ADMISSION_DATE>
+	     <day> 25 </day>
+	     <month> 12 </month>
+	     <year> 2015 </year>
+    </ADMISSION_DATE>
+
+  </info_1>
+
+  <info_2>
+
+	<SL._NO.> 29 </SL._NO.>
+	<NAME> Bob_Marshal </NAME>
+    <ADMISSION_DATE>
+	     <day> 13 </day>
+	     <month> 01 </month>
+	     <year> 1999 </year>
+    </ADMISSION_DATE>
+
+  </info_2>
+
+  <info_3>
+
+	<SL._NO.> 35 </SL._NO.>
+	<NAME> Clark_Kent </NAME>
+    <ADMISSION_DATE>
+	     <day> 17 </day>
+	     <month> 06 </month>
+	     <year> 2005 </year>
+    </ADMISSION_DATE>
+
+  </info_3>
+</info>
+<employee>
+   
+   <employee_1>
+
+     <ID> 1 </ID>
+     <NAME>  John Doe  </NAME>
+     <ADDRESS> 
+     	<HOUSE> 38 </HOUSE>
+     	<ROAD> 3 </ROAD>
+     	<AREA> Banani </AREA>
+     	<CITY> Dhaka </CITY>
+     </ADDRESS>
+     <DEPARTMENT> Sales </DEPARTMENT>
+     <SALARY> $20000 </SALARY>
+
+   </employee_1>
+
+   <employee_2>
+
+     <ID> 2 </ID>
+     <NAME>  Mark_Juckerberg  </NAME>
+     <ADDRESS> 
+     	<FLAT> A/1 </FLAT>
+     	<HOUSE> 20 </HOUSE>
+     	<ROAD> 18 </ROAD>
+     	<AREA> Mirpur </AREA>
+     	<CITY> Dhaka </CITY>
+     </ADDRESS>
+     <DEPARTMENT> Accounts </DEPARTMENT>
+     <SALARY> $12000 </SALARY>
+     
+   </employee_2>
+
+   <employee_3>
+
+     <ID> 3 </ID>
+     <NAME>  Ala_Voski  </NAME>
+     <ADDRESS> 	
+     	<HOUSE> 38 </HOUSE>
+     	<ROAD> 3 </ROAD>
+     	<AREA> Motijheel </AREA>
+     </ADDRESS>
+     <DEPARTMENT> Human_Resource </DEPARTMENT>
+     <SALARY> $30000 </SALARY>
+     
+   </employee_3>
+
+</employee>
+</lab_0>
+	
