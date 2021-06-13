@@ -3,11 +3,11 @@
 $a=23; 
 if($a%2==0) 
 { 
- echo "$number is Even Number";  
+ echo "$a is Even Number";  
 } 
 else 
 { 
- echo "$number is Odd Number"; 
+ echo "$a is Odd Number"; 
 }  
 
 ?>
