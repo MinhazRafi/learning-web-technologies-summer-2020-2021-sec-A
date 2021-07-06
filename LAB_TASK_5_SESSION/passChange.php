@@ -28,7 +28,8 @@
 					echo "Enter a Valid password ";
  				}
 		
-		}else{
+		}
+		else{
 				echo "Invalid Input";
 			}
 	}
