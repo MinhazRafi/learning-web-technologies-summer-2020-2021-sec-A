@@ -1,7 +1,7 @@
 <html>
 <head> </head>
 <body>
-<form onsubmit="return muFun()">
+<form onsubmit="return myFun()">
 Email: <input type="text" id="Email" value="">
 <span id="Message"> </span>
 </br>
@@ -12,7 +12,7 @@ Email: <input type="text" id="Email" value="">
   "use strict"
 function myFun(){
   
- let a= document.getElementById("Email").value;
+ let a = document.getElementById("Email").value;
    if(a==""){
    document.getElementById("Message").innerHTML="Can not empty";
    return false;
